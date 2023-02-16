@@ -1,1 +1,1 @@
-## Gets DDOS logs and prints out IPs mf
+## Grabs IPs using regex from a long string of messyness
